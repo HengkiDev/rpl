@@ -1,0 +1,112 @@
+body {
+  font-family: arial;
+  background-color: 
+#5499c7;
+color: white;
+}
+
+
+.nav-photo {
+  border-radius: 15px;
+  width: 100%;
+  height: 120px;
+}
+
+.nav-bar {
+  border-radius: 30px;
+  position: relative;
+  bottom: 23px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  background-color: #2471a3 ;
+  word-spacing: 20px;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+    padding: 10px;
+    border: 1px grey;
+  
+}
+.nav-bar a {
+  text-decoration: none;
+  color: white;
+}
+
+.About {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  text-shadow: 3px 2px 1px Black;
+    font-size: 20px;
+}
+
+.content {
+  background-color: #2471a3;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    padding: 10px;
+    border: 1px grey;
+}
+
+.About-Content {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.About-Content img {
+  width: 100px ;
+  border-radius: 20%;
+}
+
+.Pengertian {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  text-shadow: 3px 2px 1px Black;
+    font-size: 20px;
+}
+
+.Html-Content {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.Css-Content {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.JS-Content {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.Code-Content a {
+  text-decoration: none;
+  color: Black;
+}
+
+.Code-Content p {
+  text-align: center;
+}
+
+footer {
+  text-align:center;
+}
+footer a {
+  text-decoration: none;
+}
+
+.Sosmed h3 {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.Sosmed a {
+  text-decoration: none;
+  color: #808b96;
+}

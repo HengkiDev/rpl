@@ -1,0 +1,35 @@
+body {
+  font-family: arial;
+  background-color:#5499c7;
+}
+
+h1, h3 {
+  text-align: center;
+  
+}
+
+.eror {
+  background-color: #2471a3;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+    padding: 10px;
+    border: 1px grey;
+    font-size: 20px;
+    text-align: center;
+}
+
+.eror1 {
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+button {
+  font-size: 20px;
+  background-color: #5499c7;
+  border-radius: 10px ;
+}
+
+input {
+  border-radius: 50px;
+}
